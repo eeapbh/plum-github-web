@@ -1,0 +1,60 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "SWITCH 나루토X보루토 나루티밋 스톰 커넥션즈 한글판(11/15 출고)",
+      "provider": "사이버 커넥트 2",
+      "price": 	69800,
+      "image": "https://d1d7cbmyyzpb0j.cloudfront.net/images/naruto/naruto.jpg"
+    },
+    {
+      "id": 2,
+      "name": "SWITCH 블루이 비디오 게임 한글판 선주문(11/16 출고)",
+      "provider": "Artax Games",
+      "price": 54000,
+      "image": "https://d1d7cbmyyzpb0j.cloudfront.net/images/blueee.jpg"
+    },
+    {
+      "id": 3,
+      "name": "SWITCH 더 킹 오브 파이터즈 13 글로벌 매치 선주문(11/15 출고)",
+      "provider": "SNK",
+      "price": 49800,
+      "image": "https://d1d7cbmyyzpb0j.cloudfront.net/images/thekingof.jpg"
+    },
+    {
+      "id": 4,
+      "name": "아이폰 스티커 팩",
+      "provider": "문구 판매소",
+      "price": 1900,
+      "image": "/images/image004.png"
+    },
+    {
+      "id": 5,
+      "name": "개발자 키보드",
+      "provider": "numpy",
+      "price": 99000,
+      "image": "/images/image005.png"
+    },
+    {
+      "id": 6,
+      "name": "개발자 커스텀 케이블",
+      "provider": "보물보따리",
+      "price": 69000,
+      "image": "/images/image006.png"
+    },
+    {
+      "id": 7,
+      "name": "문 긁는 고양이",
+      "provider": "집",
+      "price": 1000000,
+      "image": "/images/image007.png"
+    },
+    {
+      "id": 8,
+      "name": "우당탕탕 인테리어 책",
+      "provider": "우당탕탕",
+      "price": 5900,
+      "image": "/images/image008.png"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+.loginwrap {
+    text-align: center;
+    padding-top: 10%;
+  }
+  
+  .loginform {
+    width: 400px;
+    height: 70px;
+    box-sizing: border-box;
+    margin-top: 10px;
+  }
+  
+  .buttonform {
+    background-color: green;
+    box-sizing: border-box;
+    width: 400px;
+    height: 70px;
+    margin-top: 30px;
+    color: white;
+    font-size: 15px;
+    font-weight: bold;
+    cursor: pointer;
+    border-radius: 15px;
+    border: 1px solid;
+  }
+  
+  .buttonform:hover {
+    background-color: blue;
+  }
