@@ -13,8 +13,14 @@ export const TopNavigationBar = ({ cart }) => {
         <div className={styles.input_wrap}>
           <input type="text" placeholder="상품을 검색해보세요!" />
           <img src="/images/icon-search.svg" alt="search" />
+    
         </div>
+        <div className={styles.plumlogo}>
+          <img src="https://d1d7cbmyyzpb0j.cloudfront.net/images/plumcommerce.png" alt="" />
+        </div>
+        
       </div>
+      
 
       <div className={styles.menu}>
         <Link to="/cart">

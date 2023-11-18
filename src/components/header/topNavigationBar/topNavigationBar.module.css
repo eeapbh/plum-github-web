@@ -23,10 +23,16 @@
   height: 38px;
 }
 
+.inner .plumlogo img {
+  width:300px;
+  height: 100px;
+}
+
 .input_wrap {
   position: relative;
   width: 400px;
   height: 46px;
+  margin-right: 50px;
 }
 
 .input_wrap input {
