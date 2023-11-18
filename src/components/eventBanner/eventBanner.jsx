@@ -9,7 +9,7 @@ export const EventBanner = () => {
         backgroundSize: "100%",
       }}
     >
-    <img src="https://d1d7cbmyyzpb0j.cloudfront.net/images/plumcommerce3.png" 
+    <img src="https://d1d7cbmyyzpb0j.cloudfront.net/images/mostpopular.png" 
     className={styles.banner} />
       <div className={styles.right}>
         <img src="images/icon-swiper-2.svg" alt="right" />
