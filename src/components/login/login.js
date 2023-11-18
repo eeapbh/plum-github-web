@@ -62,7 +62,7 @@ function Login() {
 
   return (
     <div className={styles.loginwrap}>
-      <img src="https://d1d7cbmyyzpb0j.cloudfront.net/images/plumcommerce.png" alt="" />
+      
       <div>
         <input
           className={styles.loginform}
